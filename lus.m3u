@@ -1701,7 +1701,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=73
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=46
 
 
-
+# =========================================================================================================================================================================
 
 
 #EXTINF:-1 group-title="DIGITAL 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BEINSPORTS1.png",BEIN SPORTS 1
@@ -1742,4 +1742,271 @@ https://iptv.lancartech.co.id/live/Wawan007/Wawan1234/27876.m3u8
 
 #EXTINF:-1 group-title="DIGITAL 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORT2.png",SPORT 2
 https://iptv.lancartech.co.id/live/Wawan007/Wawan1234/27877.m3u8
+
+
+# =========================================================================================================================================================================
+
+# =========================================================================================================================================================================
+# =================================== DIGITAL 2 ===========================================================================================================================
+# =========================================================================================================================================================================
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RCTI.png",RCTI
+https://ogietv.biz.id:443/Dimas01/bara01/1964.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RCTI.png",RCTI
+https://ogietv.biz.id:443/Dimas01/bara01/1316.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MNCTV.png",MNC TV
+https://ogietv.biz.id:443/Dimas01/bara01/1317.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MNCTV.png",MNC TV
+https://ogietv.biz.id:443/Dimas01/bara01/31897.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/GTV.png",GTV
+https://ogietv.biz.id:443/Dimas01/bara01/1318.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/GTV.png",GTV
+https://ogietv.biz.id:443/Dimas01/bara01/31898.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/INEWS.png",INEWS
+https://ogietv.biz.id:443/Dimas01/bara01/1336.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/INEWS.png",INEWS
+https://ogietv.biz.id:443/Dimas01/bara01/31899.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TRANS7.png",TRANS 7
+https://ogietv.biz.id:443/Dimas01/bara01/1315.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TRANS7.png",TRANS 7
+https://ogietv.biz.id:443/Dimas01/bara01/1313.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TRANSTV.png",TRANS TV
+https://ogietv.biz.id:443/Dimas01/bara01/1312.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TRANSTV.png",TRANS TV
+https://ogietv.biz.id:443/Dimas01/bara01/1310.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/INDOSIAR.png",INDOSIAR
+https://ogietv.biz.id:443/Dimas01/bara01/1327.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/INDOSIAR.png",INDOSIAR
+https://ogietv.biz.id:443/Dimas01/bara01/1325.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SCTV.png",SCTV
+https://ogietv.biz.id:443/Dimas01/bara01/1324.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SCTV.png",SCTV
+https://ogietv.biz.id:443/Dimas01/bara01/1322.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MOJI.png",MOJI
+https://ogietv.biz.id:443/Dimas01/bara01/25163.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ANTV.png",ANTV
+https://ogietv.biz.id:443/Dimas01/bara01/27383.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVONE.png",TVONE
+https://ogietv.biz.id:443/Dimas01/bara01/1345.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MDTV.png",MDTV
+https://ogietv.biz.id:443/Dimas01/bara01/1321.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MDTV.png",MDTV
+https://ogietv.biz.id:443/Dimas01/bara01/1319.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/KOMPASTV.png",KOMPAS TV
+https://ogietv.biz.id:443/Dimas01/bara01/1332.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/KOMPASTV.png",KOMPAS TV
+https://ogietv.biz.id:443/Dimas01/bara01/1331.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/METROTV.png",METRO TV
+https://ogietv.biz.id:443/Dimas01/bara01/1330.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/METROTV.png",METRO TV
+https://ogietv.biz.id:443/Dimas01/bara01/1328.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RTV.png",RTV
+https://ogietv.biz.id:443/Dimas01/bara01/1340.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVRI.png",TVRI NASIONAL
+https://ogietv.biz.id:443/Dimas01/bara01/1335.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVRISPORT.png",TVRI SPORT
+https://ogietv.biz.id:443/Dimas01/bara01/24952.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CNN.png",CNN INDONESIA
+https://ogietv.biz.id:443/Dimas01/bara01/1496.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CNBC.png",CNBC INDONESIA
+https://ogietv.biz.id:443/Dimas01/bara01/1497.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/JTV.png",JTV 
+https://ogietv.biz.id:443/Dimas01/bara01/33501.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MUSIKINDONESIA.png",MUSIK INDONESIA
+https://ogietv.biz.id:443/Dimas01/bara01/1472.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPOTV.png",SPOTV
+https://ogietv.biz.id:443/Dimas01/bara01/432.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPOTV2.png",SPOTV 2
+https://ogietv.biz.id:443/Dimas01/bara01/25873.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/VOLITV.png",VOLITV
+https://ogietv.biz.id:443/Dimas01/bara01/435.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/VOLITV.png",VOLITV
+https://ogietv.biz.id:443/Dimas01/bara01/26301.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/NBATV.png",NBA TV
+https://ogietv.biz.id:443/Dimas01/bara01/436.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/FIGHTSPORTS.png",FIGHT SPORT
+https://ogietv.biz.id:443/Dimas01/bara01/1886.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/WSPORT.png",W SPORT
+https://ogietv.biz.id:443/Dimas01/bara01/1898.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBO.png",HBO
+https://ogietv.biz.id:443/Dimas01/bara01/1363.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBO.png",HBO
+https://ogietv.biz.id:443/Dimas01/bara01/1364.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBOHITS.png",HBO HITS
+https://ogietv.biz.id:443/Dimas01/bara01/1367.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBOHITS.png",HBO HITS
+https://ogietv.biz.id:443/Dimas01/bara01/1368.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBOSIGNATURE.png",HBO SIGNATURE
+https://ogietv.biz.id:443/Dimas01/bara01/1365.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBOSIGNATURE.png",HBO SIGNATURE
+https://ogietv.biz.id:443/Dimas01/bara01/1366.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBOFAMILY.png",HBO FAMILY
+https://ogietv.biz.id:443/Dimas01/bara01/1369.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HBOFAMILY.png",HBO FAMILY
+https://ogietv.biz.id:443/Dimas01/bara01/1370.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CINEMAX.png",CINEMAX
+https://ogietv.biz.id:443/Dimas01/bara01/1371.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CINEMAX.png",CINEMAX
+https://ogietv.biz.id:443/Dimas01/bara01/1372.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/WARNERTV.png",WARNER TV
+https://ogietv.biz.id:443/Dimas01/bara01/1387.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/WARNERTV.png",WARNER TV
+https://ogietv.biz.id:443/Dimas01/bara01/1388.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BIOSKOPINDONESIA.png",BIOSKOP INDONESIA
+https://ogietv.biz.id:443/Dimas01/bara01/1377.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/FLIK.png",FLIK
+https://ogietv.biz.id:443/Dimas01/bara01/1379.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/IMC.png",IMC
+https://ogietv.biz.id:443/Dimas01/bara01/293.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVN.png",TVN
+https://ogietv.biz.id:443/Dimas01/bara01/1400.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVN.png",TVN
+https://ogietv.biz.id:443/Dimas01/bara01/299.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVNMOVIES.png",TVN MOVIES
+https://ogietv.biz.id:443/Dimas01/bara01/1401.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVNMOVIES.png",TVN MOVIES
+https://ogietv.biz.id:443/Dimas01/bara01/300.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/K%2B.png",K+
+https://ogietv.biz.id:443/Dimas01/bara01/301.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/KIX.png",KIX
+https://ogietv.biz.id:443/Dimas01/bara01/303.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CELESTIALMOVIES.png",CELESTIAL MOVIE
+https://ogietv.biz.id:443/Dimas01/bara01/1385.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CCM.png",CCM
+https://ogietv.biz.id:443/Dimas01/bara01/305.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/AXN.png",AXN
+https://ogietv.biz.id:443/Dimas01/bara01/313.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/AXN.png",AXN
+https://ogietv.biz.id:443/Dimas01/bara01/1402.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CINEMAWORLD.png",CINEMAWOLRD
+https://ogietv.biz.id:443/Dimas01/bara01/1382.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/GALAXYPREMIUM.png",GALAXY PREMIUM
+https://ogietv.biz.id:443/Dimas01/bara01/1390.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/NICKJR.png",NICK JR
+https://ogietv.biz.id:443/Dimas01/bara01/601.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/NICKJR.png",NICK JR
+https://ogietv.biz.id:443/Dimas01/bara01/15498.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MENTARITV.png",MENTARI TV
+https://ogietv.biz.id:443/Dimas01/bara01/31315.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ANIMAX.png",ANIMAX
+https://ogietv.biz.id:443/Dimas01/bara01/1464.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/VTV.png",VTV
+https://ogietv.biz.id:443/Dimas01/bara01/31901.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MOONBUG.png",MOONBUG 
+https://ogietv.biz.id:443/Dimas01/bara01/31900.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CARTOONNETWORK.png",CARTOON NETWORK
+https://ogietv.biz.id:443/Dimas01/bara01/1454.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/DREAMWORKS.png",DREAMWORKS
+https://ogietv.biz.id:443/Dimas01/bara01/1457.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CARTOONITO.png",CARTOONITO
+https://ogietv.biz.id:443/Dimas01/bara01/1909.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/LOVENATURE.png",LOVE NATURE
+https://ogietv.biz.id:443/Dimas01/bara01/1432.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ANIMALPLANET.png",ANIMAL PLANET
+https://ogietv.biz.id:443/Dimas01/bara01/1435.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HISTORY.png",HISTORY
+https://ogietv.biz.id:443/Dimas01/bara01/1437.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/DISCOVERYASIA.png",DISCOVERY ASIA
+https://ogietv.biz.id:443/Dimas01/bara01/1438.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CNA.png",CNA
+https://ogietv.biz.id:443/Dimas01/bara01/1491.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BLOOMBERG.png",BLOOMBERG
+https://ogietv.biz.id:443/Dimas01/bara01/1499.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/QURANTV.png",QURAN TV
+https://ogietv.biz.id:443/Dimas01/bara01/1479.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MUITV.png",MUI TV
+https://ogietv.biz.id:443/Dimas01/bara01/76557.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVMU.png",TVMU
+https://ogietv.biz.id:443/Dimas01/bara01/1481.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HIJRAHTV.png",HIJRAH TV
+https://ogietv.biz.id:443/Dimas01/bara01/1487.m3u8
+
+#EXTINF:-1 group-title="DIGITAL 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ASTROAWANI.png",ASTRO AWANI
+https://ogietv.biz.id:443/Dimas01/bara01/1820.m3u8
+
+
 
