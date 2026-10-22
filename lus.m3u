@@ -1230,33 +1230,477 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
+
+
 # =========================================================================================================================================================================
 # =================================== Bandel ==============================================================================================================================
 # =========================================================================================================================================================================
 
 #EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RCTI.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1
 
-#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RCTI.png",RCTI001
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MNCTV.png",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=001
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=001
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=2
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=2
 
-#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RCTI.png",10
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/GTV.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=3
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=3
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/INEWS.png",INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=4
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=4
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SINDONEWS.png",SINDO NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=5
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=5
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TRANS7.png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=7
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=7
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TRANSTV.png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=6
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=6
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/INDOSIAR.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=9
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=9
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SCTV.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=8
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=8
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MOJI.png",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=19
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=19
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ANTV.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=10
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVONE.png",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=12
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=12
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MDTV.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=23
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=23
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/KOMPASTV.png",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=13
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=13
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/METROTV.png",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=14
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=14
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/RTV.png",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=11
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=11
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVRI.png",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=16
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=16
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BTV.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=15
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=15
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/IDX.png",IDX CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=134
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=134
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MUSICTV.png",MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=142
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=142
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MUSLIMTV.png",MUSLIM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=137
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=137
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPOTV.png",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=119
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=119
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPOTV2.png",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=120
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=120
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS.png",SPORTSTARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=112
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=112
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS2.png",SPORTSTARS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=113
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=113
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS3.png",SPORTSTARS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=114
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=114
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS4.png",SPORTSTARS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=205
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=205
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SOCCERCHANNEL.png",SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BEINSPORTS1.png",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BEINSPORTS2.png",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/BEINSPORTS3.png",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/FIGHTSPORTS.png",FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=121
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=121
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/KIDSTV.png",KIDS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=56
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=56
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/MENTARITV.png",MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=20
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=20
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/NICKJR.png",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=60
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=60
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/NICKELODEON.png",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=64
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=64
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ANIMAX.png",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=65
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=65
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/DREAMWORKS.png",DREAMWORKS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=67
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=67
+
+#EXTINF:-1" group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HITS.png",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=77
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=77
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HITSMOVIES.png",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=42
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=42
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/HITSNOW.png",HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=68
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=68
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/GALAXY.png",GALAXY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=49
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=49
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/GALAXYPREMIUM.png",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=48
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=48
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/STUDIOUNIVERSAL.png",STUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=54
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=54
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/AXN.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=79
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=79
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/KIX.png",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=75
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=75
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/THRILL.png",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=41
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=41
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CELESTIALMOVIES.png",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=44
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=44
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/CCM.png",CELESTIAL CLASSIC MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=45
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=45
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SUPERRIX.png",SUPERRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=39
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=39
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ZEEBIOSKOP.png",ZEE BIOSKOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=47
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=47
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ROCKACTION.png",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=93
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=93
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ROCKENTERTAINMENT.png",ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=92
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=92
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/IMC.png",INDONESIA MOVIE CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=59
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=50
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/VISIONPRIME.png",VISION PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=87
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=87
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/ENTERTAINMENT.png",ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=72
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=72
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVN.png",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=73
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=73
+
+#EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/TVNMOVIES.png",TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=46
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=46
+
+
 
 
 
