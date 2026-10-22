@@ -1425,32 +1425,32 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=120
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=112
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
 
 #EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS2.png",SPORTSTARS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=113
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1003
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1003
 
 #EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS3.png",SPORTSTARS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=114
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1004
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1004
 
 #EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SPORTSTARS4.png",SPORTSTARS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=205
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=205
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1005
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1005
 
 #EXTINF:-1 group-title="BANDEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/xx/SOCCERCHANNEL.png",SOCCER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
